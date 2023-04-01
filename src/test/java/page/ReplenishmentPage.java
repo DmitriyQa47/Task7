@@ -5,7 +5,6 @@ import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
 import data.DataHelper;
 
-
 import java.time.Duration;
 
 import static com.codeborne.selenide.Condition.visible;
